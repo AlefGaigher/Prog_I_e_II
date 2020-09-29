@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526384380 source:c:\devc\funcao_randnaoiguais\main.c
+	<stdio.h>
+	<stdlib.h>
+

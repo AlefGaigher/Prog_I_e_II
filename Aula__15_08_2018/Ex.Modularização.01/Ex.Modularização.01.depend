@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534287262 source:c:\devc\ex.modularização.01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

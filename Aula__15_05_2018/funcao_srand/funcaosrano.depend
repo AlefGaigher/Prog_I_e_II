@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526381370 source:c:\devc\funcaosrano\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526382222 source:c:\devc\funcao_mod%\main.c
+	<stdio.h>
+	<stdlib.h>
+
