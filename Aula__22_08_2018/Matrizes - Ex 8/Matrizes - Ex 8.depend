@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534502746 source:c:\devc\matrizes - ex 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
