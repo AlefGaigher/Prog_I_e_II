@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523019893 source:c:\devc\exprova\main.c
+	<stdio.h>
+	<stdlib.h>
+
