@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1320751771 source:d:\uvv\2011-2\pc-ii\arquivos\exemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1370521452 source:h:\uvv\2011-2\pc-ii\arquivos\trabalho para apresentação\exemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1541260348 source:d:\uvv\disciplinas\programação de computadores\pc-ii\arquivos\exemplo com modularização\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542489809 source:c:\users\alef gaigher\downloads\cc2m - b_20181103-1341\cc2m - b\exemplo com modularização\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

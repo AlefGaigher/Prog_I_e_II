@@ -1,0 +1,50 @@
+Maria da Silva
+Feminino
+1.94
+1109
+Solteiro
+Pedro Alcantara de Alburquerque
+Masculino
+1.93
+1108
+Casado
+Amanda de Paula Santos
+Feminino
+1.75
+1101
+Solteiro
+Paulo d Cruz
+Masculino
+1.81
+1104
+Solteiro
+Fernanda Souza Bragança
+Feminino
+1.85
+1107
+Solteiro
+Beth de Almeida
+Feminino
+1.77
+1102
+Solteiro
+Carla Pereira da Silva
+Feminino
+1.78
+1103
+casado
+Vitor dos Santos Bastos
+Masculino
+1.83
+1105
+Solteiro
+Marta Almeida
+Feminino
+1.95
+1010
+Solteiro
+Paula Cristina Bento
+Feminino
+1.85
+1106
+Casado

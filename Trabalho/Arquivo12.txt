@@ -1,0 +1,20 @@
+Ana Mel
+Feminino
+1.85
+3
+Marcos de Almeida
+Masculino
+1.75
+5
+Carlos Magalhaes Freitas
+Masculino
+1.93
+4
+Brigitte Monaco de Albuquerque
+Feminino
+2.02
+1
+Magalli Lamour
+Feminino
+1.78
+2
