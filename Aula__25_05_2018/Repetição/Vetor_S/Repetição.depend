@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527255261 source:c:\devc\repetição\vetor_s\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

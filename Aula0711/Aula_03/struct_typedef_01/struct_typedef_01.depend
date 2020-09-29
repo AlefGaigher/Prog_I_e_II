@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541544389 source:c:\devc\aula_03\struct_typedef_01\main.c
+	<stdio.h>
+	<stdlib.h>
+
